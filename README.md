@@ -19,8 +19,8 @@ I have a solid background in software development, specializing in mobile app de
 
 Thank you for visiting my profile! If you're interested in exploring my work further, please check out my repositories and don't hesitate to connect with me on the following platforms:
 
-- GitHub: [github.com/devkumi](https://github.com/devkumi)
-- LinkedIn: [linkedin.com/in/emmanuel-agyei-kumi-b6819b1a3](https://www.linkedin.com/in/emmanuel-agyei-kumi-b6819b1a3/)
+- GitHub: [devkumi](https://github.com/devkumi)
+- LinkedIn: [Click here](https://www.linkedin.com/in/emmanuel-agyei-kumi-b6819b1a3/)
 - Email: emmanuelagyeikumi@gmail.com
 
 I'm excited to collaborate, learn, and create amazing experiences through code. Let's build something great together! 🚀
